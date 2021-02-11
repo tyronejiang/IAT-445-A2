@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Fire
   - Selectable
+  - gate
+  - Coconut
   layers:
   - Default
   - TransparentFX
